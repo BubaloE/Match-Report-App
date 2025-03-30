@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+matplotlib
+numpy
+mplsoccer
+cmasher
+openpyxl

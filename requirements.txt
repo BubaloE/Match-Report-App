@@ -6,3 +6,4 @@ numpy
 mplsoccer
 cmasher
 openpyxl
+xml-etree-elementtree
